@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyNguyen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on web applications within a dynamic team inside a small structure
+- 🌱 I’m currently learning Nuxt
+- 💞️ I’m looking to collaborate on web applications with like-minded people
 - 📫 How to reach me : nguyen.jeremy.minhchau@gmail.com
 
 <!---
